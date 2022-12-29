@@ -21,7 +21,7 @@
 
 ## Sobre o projeto 
 
-Projeto desenvolvido durante o curso [Data Visualization: explorando com Seaborn](https://cursos.alura.com.br/course/data-visualization-com-seaborn), na plataforma [Alura](https://www.alura.com.br/), pelo instrutor[Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178/). O objetivo foi melhorar o conhecimento de análise de dados através de uma boa visualização dos mesmos.
+Projeto desenvolvido durante o curso [Data Visualization: explorando com Seaborn](https://cursos.alura.com.br/course/data-visualization-com-seaborn), na plataforma [Alura](https://www.alura.com.br/), pelo instrutor [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178/). O objetivo foi melhorar o conhecimento de análise de dados através de uma boa visualização dos mesmos.
 
 ## Conhecimentos adquiridos
 - Importação dados;
